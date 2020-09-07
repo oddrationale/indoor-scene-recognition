@@ -9,3 +9,8 @@ dependencies:
   - torchvision 
   - cpuonly
   - fastai
+  - bqplot
+  - ipympl
+  - ipyvolume
+  - scipy
+  - voila
