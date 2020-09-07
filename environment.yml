@@ -1,0 +1,11 @@
+name: fastaiv2
+channels:
+  - fastai
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch 
+  - torchvision 
+  - cpuonly
+  - fastai
