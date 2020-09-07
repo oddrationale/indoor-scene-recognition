@@ -1,0 +1,1 @@
+wget -q -O export50.pkl "https://oddcloud.blob.core.windows.net/ml-models/IndoorCVPR/export50.pkl"
