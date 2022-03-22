@@ -1,13 +1,9 @@
 name: fastaiv2
 channels:
-  - fastai
-  - pytorch
+  - fastchan
   - conda-forge
   - defaults
 dependencies:
-  - pytorch 
-  - torchvision 
-  - cpuonly
   - fastai
   - bqplot
   - ipympl
